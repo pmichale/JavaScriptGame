@@ -8,7 +8,7 @@ c.fillStyle = 'white'
 c.fillRect(0, 0, canvas.width, canvas.height)
 
 class Player {
-    constructior() {
+    constructor() {
         this.position = {
             x: 100,
             y: 100,
